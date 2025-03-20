@@ -15,5 +15,6 @@ public class Clase1 {
     }
     public void manu(){
         System.out.println("manuel anton isar");
+        
     }
 }
